@@ -1,0 +1,2 @@
+rootProject.name = "Animal Details Recycler View"
+include ':app'
